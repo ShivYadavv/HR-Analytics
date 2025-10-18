@@ -95,4 +95,4 @@ Through these KPIs, HR managers can identify attendance trends, employee reliabi
 *(Insert your dashboard screenshot here for GitHub display)*  
 Example:  
 ```markdown
-![HR Analytics Dashboard](images/hr-dashboard-preview.png)
+![HR Analytics Dashboard]([images/hr-dashboard-preview.png](https://github.com/ShivYadavv/HR-Analytics/blob/main/Dashboard.png))
